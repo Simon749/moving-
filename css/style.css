@@ -699,7 +699,7 @@ a:focus {
   border: none;
 }
 
-.faq_section #faqAccordion h5 {
+.faq_section #faqAccordion h5 a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1048,6 +1048,7 @@ a:focus {
   color: #fff;
   margin-bottom: 0;
 }
+
 
 .footer_items .item:hover .img-box::before {
   -webkit-transform: rotate(90deg);
