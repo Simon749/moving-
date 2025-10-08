@@ -634,6 +634,7 @@ a:focus {
 
 .call_section .img-box img {
   width: 100%;
+  justify-content: center;
   border-radius: 100%;
   position: relative;
   border: 10px solid #27518e;
